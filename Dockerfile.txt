@@ -1,0 +1,2 @@
+FROM uobykes/website
+ADD . /var/www/html
